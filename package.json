@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "redux": "^4.2.1",
+    "router-dom": "^2.2.10"
+  }
+}
